@@ -1,6 +1,6 @@
 # kaeport
 
-A new Flutter project.
+A Flutter project for my Portfolio :).
 
 ## Getting Started
 
